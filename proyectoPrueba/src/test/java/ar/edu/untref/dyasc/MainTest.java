@@ -10,7 +10,7 @@ public class MainTest {
 
     @Test
     public void test() {
-        File archivo = new File("prueba.txt");
+        File archivo = new File("prueba.json");
         assertTrue(archivo.exists());
     }
 

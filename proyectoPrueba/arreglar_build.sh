@@ -1,5 +1,5 @@
 #!/bin/bash
 
-touch prueba.txt
+touch prueba.json
 git commit -am "Arregla build"
 git push origin master
