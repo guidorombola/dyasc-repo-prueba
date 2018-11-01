@@ -1,5 +1,6 @@
 #!/bin/bash
 
 touch prueba.json
-git commit -am "Arregla build"
+git add -A
+git commit -m "Arregla build"
 git push origin master
